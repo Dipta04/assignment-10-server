@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Machine Learning",
     "price": 19,
-    "image": "https://png.pngtree.com/png-vector/20220419/ourmid/pngtree-artificial-intelligence-concept-in-3d-isometric-outline-design-scientist-engineer-working-png-image_4549341.png",
+    "image": "https://i.ibb.co/8x167tj/picture-1.png",
     "details": "Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products. Many of today's leading companies, such as Facebook, Google and Uber, make machine learning a central part of their operations. Machine learning has become a significant competitive differentiator for many companies.",
     "duration": "6 months"
   },
@@ -11,7 +11,7 @@
     "id": "2",
     "title": "All about JAVA",
     "price": 16,
-    "image": "https://png.pngtree.com/png-vector/20220419/ourmid/pngtree-programming-concept-in-3d-isometric-outline-design-developer-works-with-code-png-image_4549361.png",
+    "image": "https://i.ibb.co/m5b7CwP/picture-2.png",
     "details": "Java is very versatile as it is used for programming applications on the web, mobile, desktop, etc. using different platforms. Also, Java has many features such as dynamic coding, multiple security features, platform-independent characteristics, network-centric designing, etc. that make it quite versatile. It doesn’t matter if you are in high school or are in the first year of your college, if you have the curiosity to learn to code, today is the day to start.",
     "duration": "4 months"
   },
@@ -19,7 +19,7 @@
     "id": "3",
     "title": "Ethical hacking",
     "price": 17,
-    "image": "https://png.pngtree.com/png-vector/20200604/ourmid/pngtree-hacker-programming-flat-clipart-illustration-png-image_2219304.jpg",
+    "image": "https://i.ibb.co/yFzJvLq/picture-3.jpg",
     "details": "Many think that #hacker refers to some self-taught whiz kid or rogue programmer skilled at modifying computer hardware or software so it can be used in ways outside the original developers intent. But this is a narrow view that doesn't begin to encompass the wide range of reasons why someone turns to hacking. To learn about the various motivations different types of hackers might have, read Under the hoodie: why money, power, and ego drive hackers to cybercrime. Also, check out our Malwarebytes Labs podcast episode, interviewing hacker Sick Codes.",
     "duration": "3 months"
   },
@@ -27,7 +27,7 @@
     "id": "4",
     "title": "Cloud Computing",
     "price": 20,
-    "image": "https://png.pngtree.com/png-vector/20210609/ourmid/pngtree-information-technology-cloud-computing-computer-hub-png-image_3425778.jpg",
+    "image": "https://i.ibb.co/VMtsj93/picture-4.jpg",
     "details": "Cloud computing is a delivery model for computing resources that allow users to access those resources through the Internet. This model contrasts with the traditional client-server model, in which a computer is dedicated to a single user and is accessed through a network. In cloud computing, resources are shared among many users, who access them through a web browser or application.Cloud computing is the ability to access electronic data and applications over the internet. This means that you can access your data and applications from anywhere, at any time.",
     "duration": "5 months"
   },
@@ -35,7 +35,7 @@
     "id": "5",
     "title": "Basics of JavaScript",
     "price": 14,
-    "image": "https://png.pngtree.com/png-vector/20221016/ourmid/pngtree-javascript-isolated-concept-vector-illustration-png-image_6299991.png",
+    "image": "https://i.ibb.co/6NBpXTr/picture-5.png",
     "details": "In this course you can acquire the knowledge of javascript.JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn. This course will teach you JavaScript from basic to advanced.",
     "duration": "3 months"
   },
@@ -43,7 +43,7 @@
     "id": "6",
     "title": "Robotics 3.0",
     "price": 27,
-    "image": "https://png.pngtree.com/element_our/png/20181102/a-technological-scene-in-the-age-of-robotics-png_221095.jpg",
+    "image": "https://i.ibb.co/25cJbcw/picture-6.jpg",
     "details": "The National Robotics Initiative 3.0: Innovations in Integration of Robotics (NRI-3.0) program builds upon the preceding National Robotics Initiative (NRI) programs to support fundamental research in the United States that will advance the science of robot integration.  The program supports research that promotes integration of robots to the benefit of humans including human safety and human independence. Collaboration between academic, industry, non-profit, and other organizations is encouraged to establish better linkages between fundamental science and engineering and technology development, deployment, and use.",
     "duration": "4 months"
   }
